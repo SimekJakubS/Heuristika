@@ -9,7 +9,7 @@ import java.io.IOException;
 
 public class Heuristika {
 
-    /*
+    /* VYLEPSENA HEURISTIKA
     * n = 500 > pocet
     * r = 350 > min pocet pred. v batohu
     * k 9500  > min hmotnost
